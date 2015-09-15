@@ -10,6 +10,6 @@ Este repositório contém o código de teste e o gráfico com a resposta.
 Para quem não está familiarizado com o algoritmo, ele é uma simplificação da transformada de Fourier, onde você informa a 
 frequência desejada e ele devolve a intensidade da mesma.
 
-![Frequência X máxima](https://github.com/helmutkemper/GoertzelAlgorithm/blob/master/grafico_de_saida.png "Frequência X máxima")
+![Máxima x Frequência](https://github.com/helmutkemper/GoertzelAlgorithm/blob/master/grafico_de_saida.png "Máxima x Frequência")
 
 **Nota:** não tente fazer DTMF com o Arduino, o ADC tem taxas de amostragens muito lentas para as frequências acima de 60Hz.
