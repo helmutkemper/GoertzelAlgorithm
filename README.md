@@ -1,5 +1,7 @@
 # Goertzel Algorithm
 
+Wiki: https://github.com/helmutkemper/Cplusplus/wiki/Arduino-...-Goertzel-Algorithm
+
 Em um determinado projeto, sempre que havia falha mecânica no acoplamento dos cabos, apareceria a interferência dos 60Hz da rede,
 e surgiu a ideia de criar um alarme sempre que houvesse problemas com o cabo. Para isto, nós necessitávamos saber se era possível
 medir a simples presença da frequência de 60Hz no cabo usando Arduino, ou qualquer outra plataforma barata, de modo a não 
