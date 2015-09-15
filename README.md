@@ -14,4 +14,6 @@ frequência desejada e ele devolve a intensidade da mesma.
 
 ![Máxima x Frequência](https://github.com/helmutkemper/GoertzelAlgorithm/blob/master/grafico_de_saida.png "Máxima x Frequência")
 
-**Nota:** não tente fazer DTMF com o Arduino, o ADC tem taxas de amostragens muito lentas para as frequências acima de 60Hz.
+**Nota:** não tente detectar DTMF com o Arduino, o ADC tem taxas de amostragens muito lentas para as frequências acima de 60Hz.
+
+**Nota:** só havia um gerador de funções para o teste, ou seja, só havia uma única frequência presente no teste.
